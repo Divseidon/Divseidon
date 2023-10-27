@@ -17,6 +17,8 @@ I am a full-stack web developer with mostly knowledge in React and Symfony. I'm 
 <br>
 <div align="center">
 
+
+
 <!-- About me -->
 🔭 I’m currently working on my potfolio [Divs France](https://divs.fr)
 
@@ -28,9 +30,13 @@ I am a full-stack web developer with mostly knowledge in React and Symfony. I'm 
 
 📫 How to reach me **info@divs.fr**
 </div>
-<br>
+
 <!-- Languages -->
 <div align="center">
+  <!-- Widget -->
+<img  height="150" width="250" class="img-lang" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divseidon&show_icons=true&locale=en&layout=compact" alt="divseidon" />
+<br>
+<br>
 <h3 align="center">Languages and Tools:</h3>
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -50,12 +56,6 @@ I am a full-stack web developer with mostly knowledge in React and Symfony. I'm 
 <br>
 <br>
 <br>
-
-<!-- Widget -->
-<img class="img-lang" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divseidon&show_icons=true&locale=en&layout=compact" alt="divseidon" />
-<br>
-<br>
-
 <!-- Contact -->
 <p>Connect with me:</p>
 <a href="https://linkedin.com/in/divseidon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divseidon" height="30" width="40" /></a>
