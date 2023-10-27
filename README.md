@@ -1,6 +1,7 @@
 
+
 <p align="center">
-<img  height="250" width="450" src="https://github.com/Divseidon/divseidon/assets/117488970/601a0adb-5b85-49a8-90d7-c2258aed815d">
+<img  height="350" width="560" src="https://github.com/Divseidon/divseidon/assets/117488970/ebd5d184-2aa6-40b3-9e94-a63fce3e909c">
 </p>
 
 <!-- Header -->
