@@ -2,7 +2,7 @@
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Unna&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="/style.css">
 
 
 <!-- Header -->
