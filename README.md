@@ -13,7 +13,7 @@ I'm Carlos Gilvas
 </h1>
 
 <!-- Titre accrochante -->
-<h2 align="center"> 
+<h2 style="font-family: Truculenta, sans-serif" align="center"> 
 I am a full-stack web developer with mostly knowledge in React and Symfony. I'm open to learning new languages and expanding my horizons. Additionally, I am fluent in French and Spanish
 
 <hr>
