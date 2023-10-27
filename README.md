@@ -2,46 +2,8 @@
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Unna&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100&display=swap" rel="stylesheet">
-<!-- Style -->
-<style>
-    h1 {
-        font-size: 4rem;
-        font-family: 'Unna', serif;
-    }
-    h2 {
-        font-size: 1.5rem;
-        font-family: 'Truculenta', sans-serif;
-    }
-    .visitors {
-       position: absolute;
-       left: 800px;
-       bottom: 780px;
-    }
-    hr {
-        margin: 2.5rem;
-    }
-    .img-lang {
-        margin: 3rem;
-        
-    }
-    .info{
-        color: #fff;
-        font-family: 'Truculenta', sans-serif;
-        font-size: 1.2rem;
-    }
-    .connect {
-        font-family: 'Truculenta', sans-serif;
-        color: #fff;
-        font-size: 1.2rem;
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-        background: #333;
-        justify-content: center;
-        padding: 20px
-    }
+<link rel="stylesheet" href="style.css">
 
-</style>
 
 <!-- Header -->
 <h1 align="center">
