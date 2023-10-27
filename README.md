@@ -26,8 +26,6 @@ I am a full-stack web developer with mostly knowledge in React and Symfony. I'm 
 💬 Ask me about **react, symfony**
 
 📫 How to reach me **info@divs.fr**
-
-<img class="img-lang" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divseidon&show_icons=true&locale=en&layout=compact" alt="divseidon" />
 </div>
 
 
@@ -50,6 +48,7 @@ I am a full-stack web developer with mostly knowledge in React and Symfony. I'm 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
+<img class="img-lang" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divseidon&show_icons=true&locale=en&layout=compact" alt="divseidon" />
 </div>
 
 
