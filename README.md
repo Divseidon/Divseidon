@@ -1,5 +1,6 @@
+![github2]()
 <p align="center">
-<img  height="350" width="550" src="https://cdn.midjourney.com/af98844b-ae83-4de3-806f-cf7b358505a2/0_2.png">
+<img  height="350" width="550" src="https://github.com/Divseidon/divseidon/assets/117488970/601a0adb-5b85-49a8-90d7-c2258aed815d">
 </p>
 <!-- Header -->
 <h1 align="center">
