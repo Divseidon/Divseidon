@@ -1,4 +1,4 @@
-![github2]()
+
 <p align="center">
 <img  height="350" width="550" src="https://github.com/Divseidon/divseidon/assets/117488970/601a0adb-5b85-49a8-90d7-c2258aed815d">
 </p>
